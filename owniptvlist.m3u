@@ -1151,31 +1151,31 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 **********KOREAN CH**********
 
-#EXTINF:-1 tvg-name="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/KBS1_logo.png" group-title="KBS",KBS 1
+#EXTINF:-1 tvg-id="kbs1.kr" tvg-name="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/KBS1_logo.svg" group-title="KBS",KBS 1
 https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/KBS2_logo.png" group-title="KBS",KBS 2
+#EXTINF:-1 tvg-id="kbs2.kr" tvg-name="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/KBS2_logo.svg" group-title="KBS",KBS 2
 https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/KBS_News_Logo.svg" group-title="KBS",KBS 24
+#EXTINF:-1 tvg-id="kbs24.kr" tvg-name="KBS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/KBS_News_24_logo.svg" group-title="KBS",KBS 24
 https://hello.kbshlsfree.workers.dev/free/channel/81/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/KBS_Drama_logo.svg" group-title="KBS",KBS Drama
+#EXTINF:-1 tvg-id="kbsdrama.kr" tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/KBS_Drama_logo.svg" group-title="KBS",KBS Drama
 https://hello.kbshlsfree.workers.dev/free/channel/N91/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/KBS_Joy_logo.svg" group-title="KBS",KBS Joy
+#EXTINF:-1 tvg-id="kbsjoy.kr" tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KBS_Joy_logo.svg" group-title="KBS",KBS Joy
 https://hello.kbshlsfree.workers.dev/free/channel/N92/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/KBS_Kids_logo.svg" group-title="KBS",KBS Kids
+#EXTINF:-1 tvg-id="kbskids.kr" tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/KBS_Kids_logo.svg" group-title="KBS",KBS Kids
 https://hello.kbshlsfree.workers.dev/free/channel/N96/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/KBS_Life_logo.svg" group-title="KBS",KBS Life
+#EXTINF:-1 tvg-id="kbslife.kr" tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/KBS_Life_logo.svg" group-title="KBS",KBS Life
 https://hello.kbshlsfree.workers.dev/free/channel/N93/master.m3u8
 
-#EXTINF:-1 tvg-name="KBBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/KBS_Story_logo.svg" group-title="KBS",KBBS Story
+#EXTINF:-1 tvg-id="kbsstory.kr" tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/KBS_Story_logo.svg" group-title="KBS",KBS Story
 https://hello.kbshlsfree.workers.dev/free/channel/N94/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/KBS_World_logo.svg" group-title="KBS",KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/KBS_World_logo.svg" group-title="KBS",KBS WORLD
 https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
 
 #EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1
