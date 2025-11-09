@@ -1152,7 +1152,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 **********KOREAN CH**********
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/2560px-KBS_logo_2023.svg.png"
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/1024px-KBS_logo_2023.svg.png"
 
 #EXTINF:-1 tvg-id="kbs1.kr" tvg-name="KBS 1" tvg-logo="https://i.imgur.com/NFp3bHW.png" group-title="KBS",KBS 1
 https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
