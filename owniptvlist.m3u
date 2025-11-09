@@ -1152,9 +1152,19 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 **********TEST**********
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,TSET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash4.antik.sk/stream/hisidusk/playlistcbcs.mpd
+itle="XXX",AdultIPTV.net Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
+http://live.adultiptv.net/asian.m3u8
