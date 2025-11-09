@@ -1178,34 +1178,34 @@ https://hello.kbshlsfree.workers.dev/free/channel/N94/master.m3u8
 #EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/KBS_World_logo.svg" group-title="KBS",KBS WORLD
 https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1
 https://hello.kbshlsfree.workers.dev/free/channel/nvod1/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 2
 https://hello.kbshlsfree.workers.dev/free/channel/nvod2/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 3
 https://hello.kbshlsfree.workers.dev/free/channel/nvod3/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 4
 https://hello.kbshlsfree.workers.dev/free/channel/nvod4/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 5
 https://hello.kbshlsfree.workers.dev/free/channel/nvod5/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 6
 https://hello.kbshlsfree.workers.dev/free/channel/nvod6/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 7
 https://hello.kbshlsfree.workers.dev/free/channel/nvod7/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 8
 https://hello.kbshlsfree.workers.dev/free/channel/nvod8/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 9
 https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
 
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1-10
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 10
 https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
 
