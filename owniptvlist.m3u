@@ -1152,7 +1152,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 **********KOREAN CH**********
 
-#EXTINF:-1 group-logo="https://eu-central.storage.cloudconvert.com/tasks/67c34471-f492-4eee-bdc2-d2b2a04c6261/KBS_logo_2023.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20251109%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20251109T165530Z&X-Amz-Expires=86400&X-Amz-Signature=de6dcee53b457ab70c09c02caa343b47f8366c3ed767f3980ad988ce1df59a16&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22KBS_logo_2023.png%22&response-content-type=image%2Fpng&x-id=GetObject"
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/1024px-KBS_logo_2023.svg.png"
 
 #EXTINF:-1 tvg-id="kbs1.kr" tvg-name="KBS 1" tvg-logo="https://i.imgur.com/NFp3bHW.png" group-title="KBS",KBS 1
 https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
