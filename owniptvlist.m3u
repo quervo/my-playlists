@@ -1154,7 +1154,7 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 #EXTINF:-1 tvg-name="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/KBS_1_logo.svg" group-title="KBS",KBS 1
 https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/KBS2_logo_%28White%29.svg/256px-KBS2_logo_%28White%29.svg.png" group-title="KBS",KBS 2
+#EXTINF:-1 group-title="KBS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/KBS2_logo_%28White%29.svg/256px-KBS2_logo_%28White%29.svg.png",KBS 2
 https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
 
 #EXTINF:-1 tvg-name="KBS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/KBS_News_Logo.svg" group-title="KBS",KBS 24
