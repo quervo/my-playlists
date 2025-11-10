@@ -1094,6 +1094,69 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
+
+**********KOREAN CH**********
+
+#EXTINF:-1 group-logo="https://i.imgur.com/OCQeYQn.png"
+
+#EXTINF:-1 tvg-id="kbs1.kr" tvg-name="KBS 1" tvg-logo="https://i.imgur.com/NFp3bHW.png" group-title="KBS",KBS 1
+https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
+
+#EXTINF:-1 tvg-id="kbs2.kr" tvg-name="KBS 2" tvg-logo="https://i.imgur.com/RzyOX5P.png" group-title="KBS",KBS 2
+https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
+
+#EXTINF:-1 tvg-id="kbs24.kr" tvg-name="KBS 24" tvg-logo="https://i.imgur.com/jNfdklR.png" group-title="KBS",KBS 24
+https://hello.kbshlsfree.workers.dev/free/channel/81/master.m3u8
+
+#EXTINF:-1 tvg-id="kbsdrama.kr" tvg-name="KBS Drama" tvg-logo="https://i.imgur.com/fDDBq79.png" group-title="KBS",KBS Drama
+https://hello.kbshlsfree.workers.dev/free/channel/N91/master.m3u8
+
+#EXTINF:-1 tvg-id="kbsjoy.kr" tvg-name="KBS Joy" tvg-logo="https://i.imgur.com/Gnqgn6H.png" group-title="KBS",KBS Joy
+https://hello.kbshlsfree.workers.dev/free/channel/N92/master.m3u8
+
+#EXTINF:-1 tvg-id="kbskids.kr" tvg-name="KBS Kids" tvg-logo="https://i.imgur.com/vCUKkmb.png" group-title="KBS",KBS Kids
+https://hello.kbshlsfree.workers.dev/free/channel/N96/master.m3u8
+
+#EXTINF:-1 tvg-id="kbslife.kr" tvg-name="KBS Life" tvg-logo="https://i.imgur.com/EocvEyL.png" group-title="KBS",KBS Life
+https://hello.kbshlsfree.workers.dev/free/channel/N93/master.m3u8
+
+#EXTINF:-1 tvg-id="kbsstory.kr" tvg-name="KBS Story" tvg-logo="https://i.imgur.com/Q4RrclE.png" group-title="KBS",KBS Story
+https://hello.kbshlsfree.workers.dev/free/channel/N94/master.m3u8
+
+#EXTINF:-1 tvg-id="kbsworld.kr" tvg-name="KBS World" tvg-logo="https://i.imgur.com/TJc9pJq.png" group-title="KBS",KBS WORLD
+https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 1
+https://hello.kbshlsfree.workers.dev/free/channel/nvod1/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 2
+https://hello.kbshlsfree.workers.dev/free/channel/nvod2/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 3
+https://hello.kbshlsfree.workers.dev/free/channel/nvod3/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 4
+https://hello.kbshlsfree.workers.dev/free/channel/nvod4/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 5
+https://hello.kbshlsfree.workers.dev/free/channel/nvod5/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 6
+https://hello.kbshlsfree.workers.dev/free/channel/nvod6/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 7
+https://hello.kbshlsfree.workers.dev/free/channel/nvod7/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 8
+https://hello.kbshlsfree.workers.dev/free/channel/nvod8/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 9
+https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
+
+#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 10
+https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
+
+
 **********FM Radio**********
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
@@ -1149,67 +1212,6 @@ http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
-
-**********KOREAN CH**********
-
-#EXTINF:-1 group-logo="https://i.imgur.com/OCQeYQn.png"
-
-#EXTINF:-1 tvg-id="kbs1.kr" tvg-name="KBS 1" tvg-logo="https://i.imgur.com/NFp3bHW.png" group-title="KBS",KBS 1
-https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
-
-#EXTINF:-1 tvg-id="kbs2.kr" tvg-name="KBS 2" tvg-logo="https://i.imgur.com/RzyOX5P.png" group-title="KBS",KBS 2
-https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
-
-#EXTINF:-1 tvg-id="kbs24.kr" tvg-name="KBS 24" tvg-logo="https://i.imgur.com/jNfdklR.png" group-title="KBS",KBS 24
-https://hello.kbshlsfree.workers.dev/free/channel/81/master.m3u8
-
-#EXTINF:-1 tvg-id="kbsdrama.kr" tvg-name="KBS Drama" tvg-logo="https://i.imgur.com/fDDBq79.png" group-title="KBS",KBS Drama
-https://hello.kbshlsfree.workers.dev/free/channel/N91/master.m3u8
-
-#EXTINF:-1 tvg-id="kbsjoy.kr" tvg-name="KBS Joy" tvg-logo="https://i.imgur.com/Gnqgn6H.png" group-title="KBS",KBS Joy
-https://hello.kbshlsfree.workers.dev/free/channel/N92/master.m3u8
-
-#EXTINF:-1 tvg-id="kbskids.kr" tvg-name="KBS Kids" tvg-logo="https://i.imgur.com/vCUKkmb.png" group-title="KBS",KBS Kids
-https://hello.kbshlsfree.workers.dev/free/channel/N96/master.m3u8
-
-#EXTINF:-1 tvg-id="kbslife.kr" tvg-name="KBS Life" tvg-logo="https://i.imgur.com/EocvEyL.png" group-title="KBS",KBS Life
-https://hello.kbshlsfree.workers.dev/free/channel/N93/master.m3u8
-
-#EXTINF:-1 tvg-id="kbsstory.kr" tvg-name="KBS Story" tvg-logo="https://i.imgur.com/Q4RrclE.png" group-title="KBS",KBS Story
-https://hello.kbshlsfree.workers.dev/free/channel/N94/master.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld.kr" tvg-name="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="KBS",KBS WORLD
-https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 1
-https://hello.kbshlsfree.workers.dev/free/channel/nvod1/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 2
-https://hello.kbshlsfree.workers.dev/free/channel/nvod2/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 3
-https://hello.kbshlsfree.workers.dev/free/channel/nvod3/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 4
-https://hello.kbshlsfree.workers.dev/free/channel/nvod4/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 5
-https://hello.kbshlsfree.workers.dev/free/channel/nvod5/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 6
-https://hello.kbshlsfree.workers.dev/free/channel/nvod6/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 7
-https://hello.kbshlsfree.workers.dev/free/channel/nvod7/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 8
-https://hello.kbshlsfree.workers.dev/free/channel/nvod8/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 9
-https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
-
-#EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/KBS_logo_2018.svg" group-title="KBS",VOD 10
-https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
 
 **********TEST**********
