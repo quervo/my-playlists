@@ -230,7 +230,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 group-title="Cignal" tvg-id="" tvg-logo="https://i.imgur.com/1ocf5tI.png",History 2
+#EXTINF:-1 group-title="Cignal" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png" group-title="Cignal", BBC Earth
