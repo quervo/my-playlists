@@ -1162,11 +1162,9 @@ https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
 #EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 10
 https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
+******** Radio Station *********
 
-# This attribute defines a common logo for the 'Ph Live Radio' group.
 #EXTGRP:Ph Live Radio group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
-
-# --- Radio Station Entries ---
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
 https://stream.zeno.fm/qnt98p5m108uv
