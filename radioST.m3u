@@ -1,20 +1,8 @@
-#EXTM3U
+#EXTM3U billed-msg="M3U PLAYLIST BY: Alien_X"
 
-# EXTM3U playlist-type="VOD" is often included, but not mandatory for a simple list.
-# The 'billed-msg' and 'group-logo' are custom attributes and are okay as comments or custom tags.
-# I'll keep them as comments and use the standard tags for best compatibility.
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-# Alien_X's custom message: billed-msg="M3U PLAYLIST BY: Alien_X"
-# This playlist contains multiple EPG URLs for better coverage.
-# The 'url-tvg' tag is typically placed immediately after the #EXTM3U line.
-# I've split the group-logo into a separate attribute for the group-title.
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
-# This attribute defines a common logo for the 'Ph Live Radio' group.
-#EXTINF:-1 Ph Live Radio group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
-
-# --- Radio Station Entries ---
+***** TEST RADIO ****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
 https://stream.zeno.fm/qnt98p5m108uv
