@@ -1163,7 +1163,7 @@ https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
 https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/a/9f8Wa8p.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/S3WUI7k.png"
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
