@@ -1,16 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",Local
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="SPORTS.NET.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Sports",Sports Net
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="MUSIC.ONE.ph" tvg-logo="https://example.com/music_logo.png" group-title="Music",Music One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
