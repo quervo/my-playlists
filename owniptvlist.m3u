@@ -1162,6 +1162,7 @@ https://hello.kbshlsfree.workers.dev/free/channel/nvod9/master.m3u8
 #EXTINF:-1 tvg-name="KBS VOD 1-10" tvg-logo="https://i.imgur.com/DPAb6eX.png" group-title="KBS",VOD 10
 https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
+******** WAVVE ********
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C4401_square_20250731142904.png" group-title="WAVVE", ANIBOX
 https://mc-5dugfxm3jo.bunny.run/wavve/c4401/master.m3u8/master.m3u8
@@ -1522,6 +1523,168 @@ https://mc-5dugfxm3jo.bunny.run/wavve/c4101/master.m3u8/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.wavve.com/channel_mgmt/image/C4102_square_20250731142739.png" group-title="WAVVE", 현대홈쇼핑+샵
 https://mc-5dugfxm3jo.bunny.run/wavve/c4102/master.m3u8/master.m3u8
+
+*********** TVING *********
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0831/C05441.jpg" group-title="TVING",ANIBOX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c05441/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0832/C00772.jpg" group-title="TVING",EBS1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00772/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0832/C01582.jpg" group-title="TVING",JTBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01582/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20250630/1053/C52328.jpg" group-title="TVING",JTBC news NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52328/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20250526/0032/C52300.jpg" group-title="TVING",JTBC news 아카이브
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52300/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0833/C15741.jpg" group-title="TVING",JTBC2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c15741/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0833/C22041.jpg" group-title="TVING",JTBC4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c22041/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20250317/0521/C52286.png" group-title="TVING",KBS NEWS 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52286/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0825/C00709.jpg" group-title="TVING",KBS1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00709/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0826/C00710.jpg" group-title="TVING",KBS2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00710/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0827/C52299.jpg" group-title="TVING",MBC 라디오 시사
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52299/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0826/C52379.jpg" group-title="TVING",MBC 라디오 예능
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52379/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0834/C00708.jpg" group-title="TVING",MBN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00708/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0828/C52349.jpg" group-title="TVING",MBN NEWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52349/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0834/C17142.jpg" group-title="TVING",MBN 플러스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c17142/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0834/C00579.jpg" group-title="TVING",Mnet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0835/C07381.jpg" group-title="TVING",OCN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c07381/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0835/C04601.jpg" group-title="TVING",OCN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c04601/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0828/C07382.jpg" group-title="TVING",OCN Movies2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c07382/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20250730/0156/C52348.jpg" group-title="TVING",SBS No.1 뉴스라이브
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0836/C01581.jpg" group-title="TVING",TV CHOSUN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01581/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0836/C00585.jpg" group-title="TVING",TV CHOSUN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00585/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0829/C52302.jpg" group-title="TVING",TV CHOSUN NEWS24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c52302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0838/C00593.jpg" group-title="TVING",YTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0838/C01101.jpg" group-title="TVING",YTN2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01101/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0839/C15347.jpg" group-title="TVING",YTN사이언스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c15347/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0836/C00551.jpg" group-title="TVING",tvN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00551/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0837/C01143.jpg" group-title="TVING",tvN DRAMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01143/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20241112/0907/C01141.png" group-title="TVING",tvN SHOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01141/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0837/C51404.jpg" group-title="TVING",tvN SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c51404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0838/C51258.jpg" group-title="TVING",tvN STORY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c51258/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0839/C51263.jpg" group-title="TVING",국회방송(NATV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c51263/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0840/C04042.jpg" group-title="TVING",애니맥스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c04042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20240311/1515/C00901.png" group-title="TVING",애니플러스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00901/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0840/C01723.jpg" group-title="TVING",연합뉴스TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01723/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0843/C00544.jpg" group-title="TVING",중화TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c00544/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0829/C01583.jpg" group-title="TVING",채널A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c01583/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20241229/1456/C17141.png" group-title="TVING",채널A플러스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c17141/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0843/C06941.jpg" group-title="TVING",투니버스
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c06941/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/ntgs/contents/CTC/caic/CAIC1500/ko/20251104/0844/C17341.jpg" group-title="TVING",히스토리
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://mc-hda11sn95o.bunny.run/tving/c17341/master.m3u8
 
 
 *********** CONVERGE *************
