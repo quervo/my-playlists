@@ -2,6 +2,99 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
+#EXTINF:1 group-title="IPTV" tvg-id="convergenceinc/aniplus" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Aniplus
+http://vod.nathcreqtives.com/stream/convergenceinc/aniplus/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:2 group-title="IPTV" tvg-id="convergenceinc/cinemaone" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinema One
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemaone/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:3 group-title="IPTV" tvg-id="convergenceinc/hbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemax
+http://vod.nathcreqtives.com/stream/convergenceinc/hbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:4 group-title="IPTV" tvg-id="convergenceinc/cinemo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemo!
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:5 group-title="IPTV" tvg-id="convergenceinc/gmalifetv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA Life TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:6 group-title="IPTV" tvg-id="convergenceinc/gmanetwork" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA Manila
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:7 group-title="IPTV" tvg-id="convergenceinc/gmanewstv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA News TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanewstv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:8 group-title="IPTV" tvg-id="convergenceinc/gtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GTV
+http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:9 group-title="IPTV" tvg-id="convergenceinc/heartofasia" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Heart Of Asia
+http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:10 group-title="IPTV" tvg-id="convergenceinc/ihm" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", I Heart Movies
+http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:11 group-title="IPTV" tvg-id="convergenceinc/jeepneytv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Jeepney TV
+http://vod.nathcreqtives.com/stream/convergenceinc/jeepneytv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:12 group-title="IPTV" tvg-id="convergenceinc/kapamilya" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Kapamilya HD
+http://vod.nathcreqtives.com/stream/convergenceinc/kapamilya/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:13 group-title="IPTV" tvg-id="convergenceinc/nbatv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NBA TV
+http://vod.nathcreqtives.com/stream/convergenceinc/nbatv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:14 group-title="IPTV" tvg-id="convergenceinc/tv5hd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", TV 5 HD
+http://vod.nathcreqtives.com/stream/convergenceinc/tv5hd/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:15 group-title="IPTV" tvg-id="convergenceinc/vivacinema" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Viva Cinema
+http://vod.nathcreqtives.com/stream/convergenceinc/vivacinema/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:16 group-title="IPTV" tvg-id="convergenceinc/pbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", PBO
+http://vod.nathcreqtives.com/stream/convergenceinc/pbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:17 group-title="IPTV" tvg-id="convergenceinc/myxph" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MYX Philippines
+http://vod.nathcreqtives.com/stream/convergenceinc/myxph/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:18 group-title="IPTV" tvg-id="convergenceinc/alltv2" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", ALLTV2
+http://vod.nathcreqtives.com/stream/convergenceinc/alltv2/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:19 group-title="IPTV" tvg-id="convergenceinc/smni" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", SMNI
+http://vod.nathcreqtives.com/stream/convergenceinc/smni/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:20 group-title="IPTV" tvg-id="convergenceinc/gnn" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GNN
+http://vod.nathcreqtives.com/stream/convergenceinc/gnn/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:21 group-title="IPTV" tvg-id="convergenceinc/net25" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NET25
+http://vod.nathcreqtives.com/stream/convergenceinc/net25/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:22 group-title="IPTV" tvg-id="convergenceinc/dzrhnews" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DZRH News
+http://vod.nathcreqtives.com/stream/convergenceinc/dzrhnews/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:23 group-title="IPTV" tvg-id="convergenceinc/untv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", UNTV
+http://vod.nathcreqtives.com/stream/convergenceinc/untv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:24 group-title="IPTV" tvg-id="convergenceinc/metrochannel" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Metro Channel
+http://vod.nathcreqtives.com/stream/convergenceinc/metrochannel/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:25 group-title="IPTV" tvg-id="convergenceinc/lighttv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Tap Edge
+http://vod.nathcreqtives.com/stream/convergenceinc/lighttv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:26 group-title="IPTV" tvg-id="convergenceinc/nhk" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NHK World
+http://vod.nathcreqtives.com/stream/convergenceinc/nhk/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:27 group-title="IPTV" tvg-id="convergenceinc/mtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MTV
+http://vod.nathcreqtives.com/stream/convergenceinc/mtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:28 group-title="IPTV" tvg-id="convergenceinc/mnet" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Mnet
+http://vod.nathcreqtives.com/stream/convergenceinc/mnet/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:29 group-title="IPTV" tvg-id="convergenceinc/a2z" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", A2Z
+http://vod.nathcreqtives.com/stream/convergenceinc/a2z/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:30 group-title="IPTV" tvg-id="convergenceinc/kapatid5" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Kapatid 5
+http://vod.nathcreqtives.com/stream/convergenceinc/kapatid5/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:31 group-title="IPTV" tvg-id="convergenceinc/light" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Light TV
+http://vod.nathcreqtives.com/stream/convergenceinc/light/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
 
 **********Cignal-TV**********
 
