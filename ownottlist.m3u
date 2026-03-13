@@ -26,6 +26,11 @@ rtmp://210.4.112.99:1935/tapdmv/blastSports
 #EXTINF:-1 tvg-logo="" group-title="TAP MEDIA", UFC TV
 http://136.239.240.67:8081/tap/program6/playlist.m3u8
 
+#EXTINF:-1 type="" group-title="PPV" tvg-logo="https://dn721902.ca.archive.org/0/items/ppv_20200411/ppv.png",PPV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_ppv_main_hd.mpd
+
 
 # LOCAL CH
 
