@@ -1,281 +1,281 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/guatesat/epg/master/epg.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/mi.tv.xml.gz"
 
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://i.imgur.com/JYislkb.png" group-title="XView",AMC HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AMC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="axn.mx" tvg-logo="https://i.imgur.com/pYWMEWN.png" group-title="XView",AXN HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/axn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery.mx" tvg-logo="https://i.imgur.com/NuwF8zb.png" group-title="XView",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery_science.mx" tvg-logo="https://i.imgur.com/6VL1Ke9.png" group-title="XView",Discovery Science HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Science HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_science_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery_turbo.mx" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="XView",Discovery Turbo HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_turbo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery_turbo.mx" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="XView",Discovery Turbo HD (Backup)
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo HD (Mirror)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery_turbo_2.mx" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="XView",Discovery Turbo 2
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="XView",ESPN HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="espn2.mx" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="XView",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_2_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fox.mx" tvg-logo="https://i.imgur.com/9nF7m6R.png" group-title="XView",Fox HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://i.imgur.com/tH3G0fJ.png" group-title="XView",FX HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fx_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="mtv.mx" tvg-logo="https://i.imgur.com/Fm6j6eC.png" group-title="XView",MTV HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mtv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nfl.mx" tvg-logo="https://i.imgur.com/C3n9D7R.png" group-title="XView",NFL Network HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", NFL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nfl_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="panico.mx" tvg-logo="https://i.imgur.com/R8iX6B4.png" group-title="XView",Panico HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Panico HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://i.imgur.com/D4sX9W1.png" group-title="XView",Sony HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Sony HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/sony_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="studio_universal.mx" tvg-logo="https://i.imgur.com/0G1mR6L.png" group-title="XView",Studio Universal HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Studio Universal HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="telemundo.mx" tvg-logo="https://i.imgur.com/Z4v0S0v.png" group-title="XView",Telemundo HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Telemundo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/telemundo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tnt.mx" tvg-logo="https://i.imgur.com/I7p0R0D.png" group-title="XView",TNT HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TNT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tnt_series.mx" tvg-logo="https://i.imgur.com/2Xy5O3L.png" group-title="XView",TNT Series HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TNT Series HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvc_deportes.mx" tvg-logo="https://i.imgur.com/T0bH0h0.png" group-title="XView",TVC Deportes HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TVC Deportes HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tvc_deportes_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvc_deportes_2.mx" tvg-logo="https://i.imgur.com/T0bH0h0.png" group-title="XView",TVC Deportes 2 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TVC Deportes 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tvc_deportes_2_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="universal.mx" tvg-logo="https://i.imgur.com/FwYmK5U.png" group-title="XView",Universal HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Universal HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="animal_planet.mx" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="XView",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/animal_planet_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-logo="https://i.imgur.com/deygPPH.png" group-title="XView",Cinecanal HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cinecanal HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinecanal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="XView",Cinemax HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinemax_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="espn3.mx" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="XView",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="XView",ESPN Plus HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_plus_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fox_pay.mx" tvg-logo="https://i.imgur.com/9nF7m6R.png" group-title="XView",Fox TVPay HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX TV Pay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_tvpay_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="foxnews.mx" tvg-logo="https://i.imgur.com/9nF7m6R.png" group-title="XView",Fox News HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_news_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="golf.mx" tvg-logo="https://i.imgur.com/vV08W1S.png" group-title="XView",Golf Channel HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Golf Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/golf_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv.mx" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="XView",HGTV HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/hgtv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="id.mx" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="XView",ID HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/id_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="multipremier.mx" tvg-logo="https://i.imgur.com/pQT1shs.png" group-title="XView",Multipremier HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Multipremier HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/multipremier_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nba.mx" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="XView",NBA TV HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", NBA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tcm.mx" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="XView",TCM HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TCM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tcm_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tlc.mx" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="XView",TLC HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tlc_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="antena3.mx" tvg-logo="https://i.imgur.com/7DKPT1P.png" group-title="XView",Antena 3 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Antena 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/antena_3_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="amc_series.mx" tvg-logo="https://i.imgur.com/JYislkb.png" group-title="XView",AMC Series HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AMC Series HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_series_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://i.imgur.com/T38Oiwl.png" group-title="XView",History 2 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", History 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/history_2_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hola_tv.mx" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="XView",Hola TV HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Hola TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/hola_tv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="lifetime.mx" tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="XView",Lifetime HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/lifetime_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nick_jr.mx" tvg-logo="https://i.imgur.com/ySyvc3o.png" group-title="XView",Nick Jr HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nick Jr HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nick_jr_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tooncast.mx" tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="XView",Tooncast HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Tooncast HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tooncast_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cartoon_network.mx" tvg-logo="https://i.imgur.com/6VL1Ke9.png" group-title="XView",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cartoon_network_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery_kids.mx" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="XView",Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Kids HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="disney_channel.mx" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="XView",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Disney Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="disney_jr.mx" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="XView",Disney Jr HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Disney Jr HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.imgur.com/T38Oiwl.png" group-title="XView",History Channel HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", History Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/history_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nick.mx" tvg-logo="https://i.imgur.com/ySyvc3o.png" group-title="XView",Nick HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nick HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nick_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="azteca_uno.mx" tvg-logo="https://i.imgur.com/A3a3a3a.png" group-title="XView",Azteca Uno HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Azteca Uno HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/azteca_uno_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="azteca_7.mx" tvg-logo="https://i.imgur.com/A4a4a4a.png" group-title="XView",Azteca 7 HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Azteca 7 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/azteca_7_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="exa_tv.mx" tvg-logo="https://i.imgur.com/E5e5e5e.png" group-title="XView",Exa TV HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", EXA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/exa_tv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-logo="https://i.imgur.com/NuwF8zb.png" group-title="XView",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nat Geo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nat_geo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cinema_platino.mx" tvg-logo="https://i.imgur.com/C8c8c8c.png" group-title="XView",Cinema Platino HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cinema Platino HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinema_platino_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="europa_europa.mx" tvg-logo="https://i.imgur.com/E9e9e9e.png" group-title="XView",Europa Europa HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Europa Europa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/europa_europa_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fox_mas.mx" tvg-logo="https://i.imgur.com/9nF7m6R.png" group-title="XView",Fox Mas HD
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX Mas HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51710c9c227a4637991466ece1b3550e:831bfae1e16f4cc2cda5d620e6d1e96a
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd
