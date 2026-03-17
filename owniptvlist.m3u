@@ -2873,7 +2873,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=e2a8c7d15b9f4d6a9c101f7e3b2d8a44:397ca914a73b1e00bc94ed9eccf9c258
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 group-title="CIGNAL TV" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
+#EXTINF:-1 group-title="Cignal" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png" group-title="Cignal", BBC Earth
@@ -3215,70 +3215,70 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Pilipinas Live 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Pilipinas Live 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3290,42 +3290,42 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 ## Mediacorp SEA Games 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CIGNAL TV",Mediacorp SEA Games 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",Mediacorp SEA Games 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
