@@ -1581,6 +1581,86 @@ http://178.33.239.54:8080/507a/index.m3u8
 http://178.33.239.54:8080/508a/index.m3u8
 
 
+
+
+############### AUTO VELOCIDADE ################
+################################################
+
+#EXTINF:-1 tvg-chno="" cuid="1000" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport MotoGP 🇮🇹 🏍
+#EXTGRP:Auto 🏍🏎️ 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1001" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport MotoGP 🇮🇹 🏍
+#EXTGRP:Auto 🏍🏎️ 
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/397194.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1002" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MotoGP_Channel_Amazon_Prime_logo_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",MotoGP Channel 🏍
+#EXTGRP:Auto 🏍🏎️ 
+https://jmp2.uk/stvp-US3500007C4
+
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="1003" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport F1 🇬🇧 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 tvg-chno="" cuid="1004" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport F1 🇬🇧 🏎️
+#EXTGRP:Auto 🏍🏎️
+https://a1xs.vip/2000005
++http://37.187.115.146:25461/JOIN-FOR-MORE/forum.tfms.xyz/4
+
+#EXTINF:-1 tvg-chno="" cuid="1005" tvg-name="sky sport f1" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport F1 🇮🇹 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1006" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Sky Sport F1 🇬🇧 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+http://tvmate.icu:8080/live/rachelle@pilon/rachelle@2024/53704.ts
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/397185.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",F1 tv 🇺🇸 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://jmp2.uk/stvp-US600011Q2
+
+#EXTINF:-1 tvg-chno="" cuid="1008" tvg-name="Rally" tvg-id="IT1600005VM" tvg-logo="https://www.rally.tv/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Rally.tv 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+https://jmp2.uk/stvp-GB51000026A
+
+#EXTINF:-1 tvg-chno="" cuid="1009" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Motorvision 🇧🇷🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1010" tvg-name="Racer Brasil 🇧🇷" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",Racer Brasil 🇧🇷🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1011" tvg-name="Garage TV 🇦🇷" tvg-id="El.Garage.TV.es" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ElGaragetv.webp" group-title="World Sports 🌎",Garage TV 🇦🇷🏎️🏍
+#EXTGRP:Auto 🏍🏎️ 
+https://stream1.sersat.com/hls/garagetv.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="1012" tvg-name="We Love Cars 🇺🇸" tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="World Sports 🌎",We Love Cars 🇺🇸🏎️
+#EXTGRP:Auto 🏍🏎️ 
+https://30a-tv.com/feeds/vidaa/cars.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="1013" tvg-name="Cars.TV" tvg-id="Cars.TV.HD.us2" tvg-logo="https://i.imgur.com/JLSHiTp.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Auto 🏍🏎️",Cars.TV 🇺🇸
+https://dvrfl04.tulix.tv/teleup-carstv/mpegts
+
+
+
+
+
+
 ################# KOREAN CH #################
 #############################################
 
