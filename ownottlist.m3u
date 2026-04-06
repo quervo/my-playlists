@@ -343,8 +343,11 @@ http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png",Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png",Family Feud
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png",Family Feud 1
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991232
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png",Family Feud 2
+https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="American Ninja Warrior" tvg-logo="https://i.imgur.com/byRY9gG.png",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
