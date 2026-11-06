@@ -1510,36 +1510,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
-https://nog-live1-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
+http://89.187.179.148:826/1368/gXwiagaXda/29485
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 2
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 3
-http://portal.best-tv.me:80/58c44dc06835/b47edf32be/616097
-
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 4
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 5
-https://tvpass.org/live/NBATV/hd
-
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 6
-http://linkapprota1.store:8080/j032z51h/gjmxxi1z/280057
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS",NBA TV 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
